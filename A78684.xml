@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaratio, serenissimi potentissimique principis Caroli, Magnæ Britanniæ &amp;c. regis vltra--marinis Protestantium ecclesiis transmissa.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78684</idno>
+            <idno type="STC">Wing C2175</idno>
+            <idno type="STC">Thomason E4_17</idno>
+            <idno type="STC">ESTC R4144</idno>
+            <idno type="EEBO-CITATION">99872611</idno>
+            <idno type="PROQUEST">99872611</idno>
+            <idno type="VID">154697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154697)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E4[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaratio, serenissimi potentissimique principis Caroli, Magnæ Britanniæ &amp;c. regis vltra--marinis Protestantium ecclesiis transmissa.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Excudebat Leonardus Lichfield,</publisher>
+                  <pubPlace>Oxoniæ [i.e. London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text in Latin, English, and French.</note>
+                  <note>Not in fact an Oxford imprint, but a carelessly printed London edition--cf. Madan, II, 1672.</note>
+                  <note>Dated at end of Latin text: Dat; in academia &amp; civitate nostra Oxoniensi pridie Idus maij 1644.</note>
+                  <note>Signatures: A-[B]⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154697:1" rendition="simple:additions"/>
+            <p>DECLARATIO, Sereniſsimi Poten<g ref="char:EOLhyphen"/>tiſsimique Principis CAROLI, Magnae Britanniae &amp;c.</p>
+            <p>
+               <hi>REGIS,</hi> VLTRA—MARINIS Proteſtantium Eccleſiis tranſmiſſa.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>OXONIAE, Excudebat LEONARDUS LICHFIELD. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="text">
+            <pb facs="tcp:154697:2"/>
+            <pb facs="tcp:154697:2"/>
+            <p>
+               <seg rend="decorInit">C</seg>Arolus, ſingulari Omnipotentis Dei providentia Angliae, Scotiae Franciae &amp; Hiberniae Rex, Fidei Defenſor &amp;c. Univerſis &amp; ſingulis qui prae<g ref="char:EOLhyphen"/>ſens hoc ſcriptum <hi>ceu proteſtationem</hi> inſpexerint, potiſsimum Reformatae Religionis cultoribus cuiuſunque ſint Gentis, gradus aut conditionis, ſalutem.</p>
+            <p>CUm ad aures noſtras non ita pridem fa<g ref="char:EOLhyphen"/>ma peruenerit, ſiniſtros quoſdam ru<g ref="char:EOLhyphen"/>mores, literaſque <hi>politica</hi> vel <hi>pernicioſa</hi> po<g ref="char:EOLhyphen"/>tiùs quorundam induſtria ſparſas eſſe, &amp; non-nullis proteſtantuim eccleſijs in exteris partibus emiſſas, nobis eſſe animum &amp; conſilium ab illa Orthodoxa Religione quam ab incunabulis imbibimus, &amp; ad hoc vſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> momentum per inte<g ref="char:EOLhyphen"/>grum uitae noſtrae curriculum amplexi ſumus
+<pb facs="tcp:154697:3"/>
+recedendi; et papiſmum in haec regna iterum in<g ref="char:EOLhyphen"/>troducendi, Quaeconiectura, ceu nefanda potius <hi>calumnia,</hi> nullo prorſus nixa vel imaginabili fun<g ref="char:EOLhyphen"/>damento horrendos hoſce tumultus, &amp; rabiem pluſquam belluinam in anglia ſuſcitauit ſub larua cuiuſdam (chimericae) Reformationis re<g ref="char:EOLhyphen"/>gimini, legibuſque huius Dominij non ſolum incongruae, ſed incompatibililis: UOLUMUS, vc toti Chriſtiano Orbi innoteſcat, ne mini<g ref="char:EOLhyphen"/>mam quidem animum noſtrum incidiſſe co<g ref="char:EOLhyphen"/>gitatiunculam hoc aggrediendi, aut tranſver<g ref="char:EOLhyphen"/>ſum vnguem ab illa Religione diſcedendi quam cum corona, ſceptroque huius regni ſolemni &amp; ſacramentali Iuramento tcnemur profiteri, protegere, et propugnare. Nec tantum con<g ref="char:EOLhyphen"/>ſtantiſsima noſtra praxis, et quotidiana in ex<g ref="char:EOLhyphen"/>ercitijs praefatae Religions praeſentia cum cre<g ref="char:EOLhyphen"/>bris in facie noſtrorum agminum aſſeverationi<g ref="char:EOLhyphen"/>bus, publicis<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> procerum hujus Regni teſtimo<g ref="char:EOLhyphen"/>nijs, &amp; ſedula in regiam noſtram ſobolem edu<g ref="char:EOLhyphen"/>cando circumſpectione (omiſsis plurimis aliis argumentis) luculentiſsime hoc demonſtrat, ſed etiam faeliciſsimum illud matrimonium quod inter noſtram primogenitam, &amp; illuſtriſ<g ref="char:EOLhyphen"/>ſimum principem <hi>Auriacum</hi> ſponte contraxi<g ref="char:EOLhyphen"/>mus, idem fortiſsime atteſtatur: Quo nupti<g ref="char:EOLhyphen"/>ali
+<pb facs="tcp:154697:3"/>
+faedere inſuper conſtat, nobis non eſſe propo<g ref="char:EOLhyphen"/>ſitum illam profiteri ſolummodo, ſed expan<g ref="char:EOLhyphen"/>dere &amp; corroborare quantum in nobis ſitum eſt.</p>
+            <p>Hanc ſacroſanctam Anglicanae Chriſti Eccle<g ref="char:EOLhyphen"/>ſiae Religionem, tot Theologorum conuocati<g ref="char:EOLhyphen"/>onibus ſancitam, tot comitiorum edictis con<g ref="char:EOLhyphen"/>firmatam, tot Regiis Diplomatibus ſtabilitam, vna cum regimine Eccleſiaſtico. &amp; Liturgia ei arnnexa, (quam liturgiam, regimenque celebri<g ref="char:EOLhyphen"/>res proteſtantium Authores tam <hi>Germani,</hi> quam <hi>Galli, tam Dani</hi> quam <hi>Heluetici,</hi> tam <hi>Batavi,</hi> quam <hi>Bohemi</hi> multis elogiis nec ſine quadam invidia in ſuis publicis ſcriptis comprobant &amp; applau<g ref="char:EOLhyphen"/>dunt, vt in tranſactioniqſus <hi>Dordrechtanae Synodus,</hi> cui nomrulli noſtrorum <hi>praeſulum,</hi> quorum Dig<g ref="char:EOLhyphen"/>nitati debita preſtita fuit reverentia (interfu<g ref="char:EOLhyphen"/>erunt, apparet) Iſtam, inquimus, Religionem quam Regius noſter pater (beatiſsimae memo<g ref="char:EOLhyphen"/>riae) in illa celeberrima fideiſuae <hi>Confeſsione</hi> om<g ref="char:EOLhyphen"/>nibus Chriſtianis principibus (vt &amp; haec praeſens noſtra <hi>proteſtatio</hi>) exhibita, publicte aſſerit: Iſtam Iſtam, Religionem ſolennjter proteſtamur, Nos integram, ſartam-tectam, &amp; inviolabilem con<g ref="char:EOLhyphen"/>ſervaturos &amp; pro virili noſtro (divino adiuvante Numine) uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ad extremam vitae noſtrae perio<g ref="char:EOLhyphen"/>dum
+<pb facs="tcp:154697:4"/>
+protecturos, et omnibus noſtris Eccleſiaſ<g ref="char:EOLhyphen"/>ticis pro muneris noſtri, &amp; ſupradicti ſacroſancti Juramenti ratione doceri, &amp; praedicari curatu<g ref="char:EOLhyphen"/>ros. Quapropter iniungimus &amp; in mandatis damus Omnibus miniſtris noſtris in exteris partibus tam Legatis, quam Reſidentibus, A<g ref="char:EOLhyphen"/>gentibuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> &amp; nunciis, reliquis<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> noſtris ſubditis vbicunque Orbis Chriſtiani terrarum aut curi<g ref="char:EOLhyphen"/>oſitatis aut comercij gratia degentibus, hane ſolennein &amp; ſinceram noſtram proteſtationem quandocunqne ſese obtulerit loci &amp; temporis oportunitas, comunicare, aſſerere, aſſeverare.</p>
+            <closer>
+               <dateline>Dat; in Academia &amp; Civitate noſtra Oxonienſi <date>pridie Jdus maij <hi>1644.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="text">
+            <pb facs="tcp:154697:4"/>
+            <p>
+               <seg rend="decorInit">C</seg>HARLES, <hi>by</hi> the providence of Al<g ref="char:EOLhyphen"/>mighty <hi>God</hi> King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defendor of the Faith &amp;c. To all thoſe who profeſſe the true Reformed proteſtant Religion, of what Nation, degree, and condition ſo ever they be to whom this preſent Declaration ſhal come, Greeting</p>
+            <p>WHereas We are given to vnderſtand that many falſe rumors, and ſcandalous letters are ſpred up &amp; downe amongſt the Refor<g ref="char:EOLhyphen"/>med Churches in forren parts by the <hi>politique</hi> or rather the <hi>pernicious</hi> induſtry of ſome ill-affected perſons, that We have an inclination to recede from that Or<g ref="char:EOLhyphen"/>thodox Religion which We were borne, baptized, and bred in, &amp; which We have firmely profeſſed &amp; prac<g ref="char:EOLhyphen"/>tis'd throughout the whole cours of Our life to this moment, and that We intend to give way to the intro<g ref="char:EOLhyphen"/>duction and publike exerciſe of popery againe in Our Dominions: which conjecture or rather moſt deteſtable <hi>calumny,</hi> being grounded upon no imaginable founda<g ref="char:EOLhyphen"/>tion hath rais'd theſe horrid tumults, and more then barbarous warrs throughout this flouriſhing Iſland un<g ref="char:EOLhyphen"/>der pretext of a <hi>kind of</hi> Reformation which would not only prove incongruous, but incompatiable with the
+<pb facs="tcp:154697:5"/>
+fundamentall lawes and goverment of this Kingdome, We deſire that the whole Chriſtian world ſhould take notice and reſt aſſured, that We never entertaind in our imagination the leaſt thought to attempt ſuch a thing, or to depart a jot from that holy Religion, which whe<g ref="char:cmbAbbrStroke">̄</g> We receaud the Crowne and ſcepter of this king<g ref="char:EOLhyphen"/>dome, We tooke a moſt ſolemne ſacramentall Oath to profeſſe and protect. Nor doth Our moſt conſtant practiſe and quotidian viſible preſence in the exerciſe of this <hi>ſole</hi> Religion, with ſo many Aſſeuerations in the head of our Armies, &amp; the publique atteſtation of our Barons, with the circumſpection us'd in the education of our royal ofpring, beſides divers other undeniable arguments, only demonſtrat this; But also that happy Alliance of Mariage, We contracted twixt Our eldeſt Daughter, &amp; the Illuſtrious Prince of <hi>Orenge,</hi> moſt clearly confirmes the reality of Our intentions herein; by w<hi rend="sup">ch</hi> Nuptiall engagement it appeares further. that Our endeavours are not only to make a bare profeſſion therof in our owne dominions, but to inlarg &amp; corrobo<g ref="char:EOLhyphen"/>rat it abroad as much as lieth in Our power: This moſt Holy Religion of the <hi>Anglican</hi> Church ordaind by ſo many <hi>Convocations</hi> of learned Divines, confirm'd by ſo many Acts of Nationall Parliaments, and ſtrenghned by ſo many Roiall Proclamations, together with the Eccleſiaſtique diſcipline, and <hi>Liturgie</hi> therunto ap<g ref="char:EOLhyphen"/>pertaining, which Liturgie &amp; diſcipline the moſt emi<g ref="char:EOLhyphen"/>nent of proteſtant Authors, as wel <hi>Germanes</hi> as <hi>French;</hi> as well <hi>Danes,</hi> as <hi>Sweds</hi> and <hi>Swittzens;</hi> as well <hi>Belgians</hi> as <hi>Bohemians</hi> do with many elogies (and not without a kind of Envie) approve and applaud in their publique writings, particulaly in the tranſactions of the Synod
+<pb facs="tcp:154697:5"/>
+of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> wherein beſides other of Our Divines (who af<g ref="char:EOLhyphen"/>terwards were prelats) one of Our Biſhops aſſiſted, to whoſe dignity all due reſpects and precedency was gi<g ref="char:EOLhyphen"/>ven: This Religion We ſay, which Our Royall <hi>father</hi> of bleſſed memory doth publiquely aſſert in that His famous <hi>Confeſsion</hi> addreſſd (as We alſo do this Our <hi>proteſtation</hi>) to all Chriſtian Princes; This, this moſt Holy Religion, with the Hierarchy and lyturgie there<g ref="char:EOLhyphen"/>of, We ſolemnly proteſt, that, by the help of Allmigh<g ref="char:EOLhyphen"/>ty God, We will endeavour, to Our vttmoſt power, and laſt period of Our life, to keepe entyre and inviola<g ref="char:EOLhyphen"/>ble, and will be carefull, according to Our duty to Hea<g ref="char:EOLhyphen"/>ven, and the renor of the foreſaid moſt ſacred Oath at Our Coronation, that all Our Eccleſiaſtiques in their ſeverall degrees and incumbences ſhal preach and prac<g ref="char:EOLhyphen"/>tiſe the ſame. Wherefore We enjoyne and comman<g ref="char:EOLhyphen"/>al Our Miniſters of State beyond the Seas aſwell Am<g ref="char:EOLhyphen"/>baſſadors as Reſidents, Agents, and Meſſengers, And We deſire all the reſt of Our loving ſubjects that ſo<g ref="char:EOLhyphen"/>journe either for curioſitie or Comerce in any forren parts, to communicat, uphold and aſſert this Our ſo<g ref="char:EOLhyphen"/>leme and ſincere proteſtation when oportunity of time and place ſhall be offered.</p>
+         </div>
+         <div xml:lang="fre" type="text">
+            <pb facs="tcp:154697:6"/>
+            <pb facs="tcp:154697:6"/>
+            <head>Charles, par la providence de Dieu Roy de la grand Bretagne de France, &amp; d'Jrlande Defenſeur de la Foy &amp;c. A tous ceux qui ceſte preſente De<g ref="char:EOLhyphen"/>claration verront, particulierement a Ceux de la Religion Reformee de quelque Nation, degreou condition qu'ils ſoient, Salut.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Yant receu advis de bonne main que pluſi<g ref="char:EOLhyphen"/>eurs faux rapports &amp; lettres ſont eſparſes parmi les Eglisſes, Re<g ref="char:EOLhyphen"/>formees de làla mer, par la <hi>politique,</hi> ou pluſtoſt la <hi>pernicieuſe</hi> iuduſtrie de perſonne smal affectionnes a noſtre gover<g ref="char:EOLhyphen"/>nement,
+<pb facs="tcp:154697:7"/>
+Que nous auons deſſein a rece<g ref="char:EOLhyphen"/>der de celle Religion que Nons auons profeſſè &amp; pratiquè tout le temps de noſtre vie iuſques a preſent; &amp; de vouloir introduire la papautè derechef en <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Dominions, Laquelle coniecture, ou <hi>ca<g ref="char:EOLhyphen"/>lumnie</hi> pluſtoſt, appuyee ſur nul funde<g ref="char:EOLhyphen"/>ment imaginable, a ſuſcitè ces horribles tumultes &amp; allumèle feu d'une tres-ſang<g ref="char:EOLhyphen"/>lante guerre en tous les quatre coins de ceſte fleuriſſante Monarchie, ſoubs pre<g ref="char:EOLhyphen"/>texte d'une <hi>(chymerique)</hi> Reformati<g ref="char:EOLhyphen"/>on, la quelle ſeroit incompatible auec le governement &amp; les loix fondementales de ce Royaume.</p>
+            <p>Nous Deſirons, quil ſoit notoire a tout le monde, que la moindre penſee de ce faire n'a pas entree en noſtre imagina<g ref="char:EOLhyphen"/>tion, de departir ancunement de cell' Or<g ref="char:EOLhyphen"/>thodoxe Religion, qu'auec la Cour<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nne &amp;
+<pb facs="tcp:154697:7"/>
+le ſcepere de ce Roya<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Nons ſommes tenus par un ſerment ſolennel &amp; ſacra<g ref="char:EOLhyphen"/>mentaire a proteger &amp; defendre. Ce qu'appers non ſoulement par noſtre quoti<g ref="char:EOLhyphen"/>dienne prefence es Exercices de la dite Religion, avec, tant d'aſſeverations a la teſte de nos Armeet, &amp; la publique At<g ref="char:EOLhyphen"/>teſtation de nos Barons, avec le ſoin que rous tenons en la nourrituredes princes &amp; princeſſes nos enfans, Mais le treſ<g ref="char:EOLhyphen"/>heureux mariage que nous avons conclu entre la noſtre plus aiſnee, &amp; le tres il<g ref="char:EOLhyphen"/>luſtre prince d'<hi>Orenge</hi> en eſt encore un treſ-evident teſmoignage, par la quell' alliance il appert auſſy, <expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> noſtre deſireſt de n'en faire pas vne nue profeſsion ſeu<g ref="char:EOLhyphen"/>lement dicelle, mais de la vouloir eſtendre et corroborer autant qu'il nous eſt poſsi<g ref="char:EOLhyphen"/>ble: Ceſt orthodoxe Religion de legliſe Anglicane ordonnce par tant de conven<g ref="char:EOLhyphen"/>tione
+<pb facs="tcp:154697:8"/>
+de Teologues, confirmee par tant de arreſts d'parlement, et fortifie par tant d' Edicts royaux auec la diſcipline et la Ly<g ref="char:EOLhyphen"/>turgie a elle appartenant, laquelle diſci<g ref="char:EOLhyphen"/>pline et lyturgie les plus celebres Autheurs Proteſtants, tant <hi>Francois,</hi> qu <hi>Alle<g ref="char:EOLhyphen"/>mands;</hi> tant <hi>ſuedois</hi> que <hi>Suiſſes,</hi> tant <hi>Belgiens</hi> que <hi>Bohemiens</hi> approuent entierement et non ſans quelqu envie en leur eſcrits particulierement en la ſy node de <hi>Dort,</hi> ou vn de nos Eueſques aſsiſtoit, et la reverence et precedence deue a ſa dignite eccleſiaſtique luy fut exactement rendue: Ceſte tres-ſainte Religion que noſtre feu <hi>pere</hi> de tres-heureuſe memoire aduoue en ſa celebre <hi>Confeſsion</hi> de la Foy addreſſee come nous faiſons ceſte <hi>Declaration</hi> atous Princes Chreſtiens; Nous Proteſtonsque moyennant la gra<g ref="char:EOLhyphen"/>ce de Dieu, nous taſcherone de conſeruer
+<pb facs="tcp:154697:8"/>
+ceſte Religion inviolable, et en ſon en<g ref="char:EOLhyphen"/>tier ſelon la meſure de puiſſance que Dieu amis entre nos mains; Et nous requerons etcommandons a tous nosminiſtres d'eſtat tant Ambaſſadeurs, que Reſidens, Agens ou meſſagers, et a tous autres nos ſubiects qui font leur ſeiour es pays eſtrangers de communiquer, maintenir et aduouer ceſte no ſtreſolennelle Proteſtationtoutes fois et quantes que l'ocaſion ſe preſentera.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
